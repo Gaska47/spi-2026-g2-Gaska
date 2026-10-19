@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 student student 4096 paź 19 12:21 2’
+drwxrwxr-x 2 student student 4096 paź 19 12:21 ’dir
+drwxrwxr-x 2 student student 4096 paź 19 12:20 dir
+drwxrwxr-x 2 student student 4096 paź 19 12:21 dir 1
+drwxrwxr-x 2 student student 4096 paź 19 12:21 dir 3
+drwxrwxr-x 2 student student 4096 paź 19 12:22 dir 4
+drwxrwxr-x 2 student student 4096 paź 19 12:22 dir 5
+drwxrwxr-x 3 student student 4096 paź 19 12:22 dir 6
+drwxrwxr-x 2 student student 4096 paź 19 12:16 dir1
+drwxrwxr-x 2 student student 4096 paź 19 12:16 dir2
+drwxrwxr-x 2 student student 4096 paź 19 12:16 dir3
+drwxrwxr-x 3 student student 4096 paź 19 12:18 dir4
+drwxrwxr-x 2 student student 4096 paź 19 12:20 other
+-rw-rw-r-- 1 student student    0 paź 19 12:23 output.txt

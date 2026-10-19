@@ -1,0 +1,7 @@
+To jest test
+To jest drugi test
+To jest trzeci test
+To jest test
+To jest drugi test
+To jest trzeci test
+I’ve appended a line!
