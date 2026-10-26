@@ -1,0 +1,88 @@
+    PID TTY          TIME CMD
+   1638 ?        00:00:00 systemd
+   1639 ?        00:00:00 (sd-pam)
+   1647 ?        00:00:00 pipewire
+   1648 ?        00:00:00 pipewire-media-
+   1649 ?        00:00:00 pulseaudio
+   1667 ?        00:00:00 dbus-daemon
+   1686 ?        00:00:00 xdg-document-po
+   1689 ?        00:00:00 xdg-permission-
+   1703 ?        00:00:00 gnome-keyring-d
+   1713 tty2     00:00:00 gdm-wayland-ses
+   1716 tty2     00:00:00 gnome-session-b
+   1766 ?        00:00:00 gnome-session-c
+   1781 ?        00:00:00 gvfsd
+   1786 ?        00:00:00 gvfsd-fuse
+   1800 ?        00:00:00 gnome-session-b
+   1821 ?        00:00:00 at-spi-bus-laun
+   1827 ?        00:00:00 dbus-daemon
+   1831 ?        01:05:43 gnome-shell
+   1903 ?        00:00:00 gnome-shell-cal
+   1905 ?        00:00:00 gvfs-udisks2-vo
+   1911 ?        00:00:00 gvfs-mtp-volume
+   1915 ?        00:00:00 gvfs-goa-volume
+   1922 ?        00:00:00 goa-daemon
+   1925 ?        00:00:00 evolution-sourc
+   1942 ?        00:00:00 goa-identity-se
+   1944 ?        00:00:00 gvfs-gphoto2-vo
+   1952 ?        00:00:00 gvfs-afc-volume
+   1974 ?        00:00:00 evolution-calen
+   1981 ?        00:00:00 gjs
+   1983 ?        00:00:00 at-spi2-registr
+   1999 ?        00:00:00 sh
+   2000 ?        00:00:00 gsd-a11y-settin
+   2002 ?        00:00:08 ibus-daemon
+   2003 ?        00:00:00 gsd-color
+   2006 ?        00:00:00 gsd-datetime
+   2008 ?        00:00:00 gsd-housekeepin
+   2011 ?        00:00:00 gsd-keyboard
+   2015 ?        00:00:00 gsd-media-keys
+   2018 ?        00:00:00 gsd-power
+   2022 ?        00:00:00 gsd-print-notif
+   2023 ?        00:00:00 gsd-rfkill
+   2025 ?        00:00:00 gsd-screensaver
+   2027 ?        00:00:00 gsd-sharing
+   2030 ?        00:00:00 gsd-smartcard
+   2032 ?        00:00:00 gsd-sound
+   2037 ?        00:00:00 gsd-wacom
+   2053 ?        00:00:00 gsd-disk-utilit
+   2066 ?        00:00:00 evolution-alarm
+   2109 ?        00:00:00 gsd-printer
+   2151 ?        00:00:00 ibus-memconf
+   2152 ?        00:00:01 ibus-extension-
+   2175 ?        00:00:00 ibus-portal
+   2183 ?        00:00:02 ibus-engine-sim
+   2200 ?        00:00:00 dconf-service
+   2201 ?        00:00:00 evolution-addre
+   2202 ?        00:00:03 snap-store
+   2264 ?        00:00:00 tracker-miner-f
+   2347 ?        00:00:04 gjs
+   2353 ?        00:00:00 gjs
+   2385 ?        00:00:00 snapd-desktop-i
+   2397 ?        00:00:00 gvfsd-trash
+   2468 ?        00:00:00 snapd-desktop-i
+   2490 ?        00:00:00 xdg-desktop-por
+   2525 ?        00:00:00 xdg-desktop-por
+   2556 ?        00:00:00 xdg-desktop-por
+   2594 ?        00:00:00 gvfsd-metadata
+   3214 ?        00:00:00 update-notifier
+   5821 ?        00:00:00 snap
+   7372 ?        00:03:16 firefox
+   7457 ?        00:00:00 crashhelper
+   7630 ?        00:00:00 forkserver
+   7633 ?        00:00:00 Socket Process
+   7645 ?        00:00:05 Privileged Cont
+   7655 ?        00:00:00 RDD Process
+   7772 ?        00:00:00 WebExtensions
+   7921 ?        00:00:00 Utility Process
+   7989 ?        00:00:24 Isolated Web Co
+   8106 ?        00:00:46 Isolated Web Co
+   8724 ?        00:00:27 Isolated Web Co
+   9069 ?        00:00:10 gnome-terminal-
+   9087 pts/0    00:00:00 bash
+   9524 ?        00:00:01 nautilus
+   9555 ?        00:00:00 gedit
+   9657 ?        00:00:00 Web Content
+   9693 ?        00:00:00 Web Content
+   9734 ?        00:00:00 Web Content
+  10163 pts/0    00:00:00 ps
