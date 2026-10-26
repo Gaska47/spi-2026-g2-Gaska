@@ -18,4 +18,24 @@ Uwaga: Klawisze kursora także powinny dział[46;44Hać, ale używając  hjkl  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[51;21HLekcja 1.2.: WYCHODZENIE Z VIM-a
 
  !! UWAGA: Przed wykonaniem jakiegokolwiek polecenia przeczytaj cał[53;68Hą lekcję !![1;1H[?25h[?25l[55;91Hv[1;1H[55;91H1[1;1H[55;1H[1m-- WIZUALNY --[m[55;15H[K[55;91H1[1;1H[?25h[?25l[55;91Hi[1;1H[?25h[?25l[55;92Hm[1;1H[55;91H1 [1;1H[?25h[?25l[55;91Ht[1;1H[?25h[?25l[55;92Hu[1;1H[55;91H1 [1;1H[?25h[?25l[55;91Ht[1;1H[?25h[?25l[55;92Ho[1;1H[55;91H1 [1;1H[?25h[?25l[55;91Hr[1;1H[?25h[?25l[55;92H^M[1;1H[55;91H   [1;1H[34m^M[m[77C=[55;1H[K[1;1H[?25h[?25l[55;91Hv[1;1H[55;91H1[1;1H[1C[47mM[m[55;1H[1m-- WIZUALNY --[m[55;91H[K[55;91H1[1;1H[?25h[?25l[55;91Hi[1;1H[?25h[?25l[55;92Hm[1;1H[55;91H1 [1;1H[?25h[?25l[55;91Ht[1;1H[?25h[?25l[55;92Hu[1;1H[55;91H1 [1;1H[?25h[?25l[55;91Ht[1;1H[?25h[?25l[55;92Ho[1;1H[55;91H1 [1;1H[?25h[?25l[55;91Hr[1;1H[?25h[?25l[55;92Hv[1;1H[55;91H  [1;1Hv=[1;80H[K[55;1H[K[1;1H[?25h[?25l[55;91Hi[1;1H[55;91H [1;1H[55;1H[1m-- WPROWADZANIE --[1;1H[?25h[?25l[mmnv[76C==mn[?25h[?25lv=[1;81H[K[1;2H[?25h[?25lv=[1;80H[K[1;1H[?25h[?25l[55;1H[K[1;1H[?25h[?25l[55;91H^[[1;1H[?25h[?25l[55;91H  [1;1H[55;91H^[[1;1H[55;91H  [1;1H[?25h[?25l[55;91H^Z[1;1H[55;1H
-[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[?12h[?12l[27m[23m[29m[m[H[2J[?25l[1;1Hv==============================================================================
+=    W i t a j   w   t u t o r i a l u   V I M - a      -    Wersja  1.7.     =
+===============================================================================[5;6HVim to potężny edytor, któ[5;32Hry posiada wiele poleceń[5;56H, zbyt dużo, by[6;6Hwyjaśnić je wszystkie w tym tutorialu. Ten przewodnik ma nauczyć[7;6HCię posł[7;14Hugiwać się wystarczająco wieloma komendami, byś mó[7;64Hgł[7;67Hł[7;68Hatwo[8;6Hużywać Vima jako edytora ogó[8;34Hlnego przeznaczenia.[10;6HCzas potrzebny na ukoń[10;28Hczenie tutoriala to 25 do 30 minut i zależy[11;6Hod tego jak wiele czasu spędzisz na eksperymentowaniu.[13;10HUWAGA:[14;10HPolecenia wykonywane w czasie lekcji zmodyfikują tekst. Zró[14;69Hb[15;10Hwcześniej kopię tego pliku do ćwiczeń[15;48H(jeśli zaczął[15;61Heś komendą[16;10H"vimtutor", to już pracujesz na kopii).[18;10HPamiętaj, że przewodnik ten został[18;45Hzaprojektowany do nauki poprzez[19;10Hćwiczenia. Oznacza to, że musisz wykonywać polecenia, by nauczyć się ich[20;10Hprawidł[20;17Howo. Jeśli będziesz jedynie czytał[20;52Htekst, szybko zapomnisz wiele[21;10Hpoleceń[21;17H![23;6HTeraz upewnij się, że nie masz wciśniętego Caps Locka i wciskaj  j[24;6Htak dł[24;12Hugo dopó[24;20Hki Lekcja 1.1. nie wypeł[24;44Hni cał[24;50Hkowicie ekranu.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[27;19HLekcja 1.1.: PORUSZANIE SIĘ KURSOREM[29;8H** By wykonać ruch kursorem, wciśnij h, j, k, l jak pokazano. **[31;16H^[32;16Hk[22CWskazó[32;45Hwka:  h jest po lewej[33;11H< h     l >[29Cl jest po prawej[34;16Hj[34Cj wygląda jak strzał[34;71Hka w dó[34;78Hł[35;16Hv
+  1. Poruszaj kursorem dopó[36;28Hki nie będziesz pewien, że pamiętasz polecenia.
+
+  2. Trzymaj  j  tak dł[38;24Hugo aż będzie się powtarzał[38;51H.[39;6HTeraz wiesz jak dojść do następnej lekcji.
+
+  3. Używając strzał[41;21Hki w dó[41;28Hł[41;30Hprzejdź do następnej lekcji.
+
+Uwaga: Jeśli nie jesteś pewien czegoś co wpisał[43;48Heś, wciśnij <ESC>, by wró[43;73Hcić do[44;8Htrybu Normal. Wtedy powtó[44;33Hrz polecenie.
+
+Uwaga: Klawisze kursora także powinny dział[46;44Hać, ale używając  hjkl  będziesz[47;8Hw stanie poruszać się o wiele szybciej, jak się tylko przyzwyczaisz.[48;8HNaprawdę!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[51;21HLekcja 1.2.: WYCHODZENIE Z VIM-a
+
+ !! UWAGA: Przed wykonaniem jakiegokolwiek polecenia przeczytaj cał[53;68Hą lekcję !![1;1H[?25h[?25l[?25h[55;1H[?1004l[?2004l[?1l>[>4;m[?1049l[23;0;0tVim: Caught deadly signal HUP
+Vim: preserving files...
+Vim: Finished.
+[55;1H[23;2t[23;1t
