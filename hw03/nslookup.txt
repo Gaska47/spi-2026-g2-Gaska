@@ -1,0 +1,11 @@
+;; Got recursion not available from 172.25.208.1
+Server:		172.25.208.1
+Address:	172.25.208.1#53
+
+Non-authoritative answer:
+Name:	google.pl
+Address: 142.250.109.94
+;; Got recursion not available from 172.25.208.1
+Name:	google.pl
+Address: 2a00:1450:4025:800::5e
+
